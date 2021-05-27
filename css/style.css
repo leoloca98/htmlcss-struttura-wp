@@ -9,10 +9,6 @@
     background-color: rgba(223, 241, 243, 0.76);
 }
 
-.columns{
-    height: 475px;
-}
-
 body {
     max-width: 1180px;
     margin: 20px auto 10px;
