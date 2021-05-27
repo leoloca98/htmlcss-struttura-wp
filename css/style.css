@@ -5,7 +5,7 @@
 }
 
 body {
-    max-width: 1200px;
+    max-width: 1180px;
     margin: 20px auto 10px;
 }
 
@@ -24,17 +24,17 @@ body {
 header {
     background-color: rgb(218, 109, 218);
     height: 130px;
-    margin-bottom: 25px;
+    margin-bottom: 30px;
 }
 
 .container {
-    margin: 25px 0 10px;
+    margin: 30px 0 10px;
 }
 
-.secondo {
+.section {
     background-color: rgb(216, 216, 108);
-    height: 500px;
-    margin-bottom: 25px;
+    height: 470px;
+    margin-bottom: 30px;
 }
 
 .wallpaper-cont {
@@ -45,19 +45,20 @@ header {
 
 .row{
     background-color: rgba(223, 241, 243, 0.76);
-    height: 100px;
-    margin-bottom: 20px;
+    height: 80px;
+    width: 100%;
+    margin-bottom: 25px;
 }
 
-.columns {
+.sidebar {
     background-color: rgba(223, 241, 243, 0.76);
-    height: 400px;
-    width: 20%
+    height: 475px;
+    width: 20%;
 }
 
-.c2 {
+.main-content {
     background-color: rgba(223, 241, 243, 0.76);
-    height: 400px;
+    height: 475px;
     width: calc(60% - 40px);
     margin: 0 20px;
 }
